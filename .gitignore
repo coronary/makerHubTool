@@ -1,0 +1,7 @@
+*.json
+*.pickle
+Include
+Scripts
+Lib
+tcl
+__pycache__
